@@ -1,4 +1,4 @@
-![github-header-image (1)](https://github.com/harshitaphadtare/harshitaphadtare/assets/143808101/05c28d44-6364-4dd6-8e9d-92e6e697722d)
+<img src="./header.png">
 
 <h1 align="center">Hi 👋, I'm Harshita Phadtare</h1>
 <h3 align="center">I'm a Pythonista who loves to build web apps.</h3>
