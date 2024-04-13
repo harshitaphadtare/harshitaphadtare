@@ -1,5 +1,4 @@
 <img src="./images/name.png">
-
 <p align="center" style="display: flex; justify-content: center; align-items: center;" >
     <a href="https://www.linkedin.com/in/harshitaphadtare/" ><img width="30" height="30" src="./images/linkedin.png" alt="linkedin logo"></a>
     <a href="https://dribbble.com/vividora?onboarding=true&designer=true"  ><img width="30" height="30" src="./images/dribble.png" alt="dribble logo"></a>
