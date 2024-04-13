@@ -6,14 +6,12 @@
 </p>
 <hr>
 
-<p>
-    - 🌱 I’m currently learning **JQuery and PHP**
+- 🌱 I’m currently learning **JQuery and PHP**
 
-    - 💬 lets chat on **How coffee turns my code from 'What?' to 'Oh!'**
+- 💬 lets chat on **How coffee turns my code from 'What?' to 'Oh!'**
 
-    - 📫 How to reach me **harshita.codewiz@gmail.com**
+- 📫 How to reach me **harshita.codewiz@gmail.com**
 
-    <img src="./images/girl-coding.png">
+<img src="./images/girl-coding.png">
 
-</p>
 
