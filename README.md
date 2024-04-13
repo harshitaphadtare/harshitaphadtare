@@ -1,4 +1,4 @@
-<img src="./images/header.png">
+<img src="./images/name.png">
 
 <p align="center" style="display: flex; justify-content: center; align-items: center;" >
     <a href="https://www.linkedin.com/in/harshitaphadtare/" style="margin-right: 20px;"><img width="30" height="30" src="./images/linkedin.png" alt="linkedin logo"></a>
