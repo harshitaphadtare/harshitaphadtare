@@ -1,6 +1,6 @@
 <img src="./header.png">
 
-<h1 align="center">Hi 👋, I'm Harshita Phadtare</h1>
+
 <h3 align="center">I'm a Pythonista who loves to build web apps.</h3>
 <img align="right" alt="Coding" width="350" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
