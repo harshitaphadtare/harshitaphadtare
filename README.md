@@ -5,4 +5,4 @@
     <a href="https://dribbble.com/vividora?onboarding=true&designer=true"  style="margin-right: 20px;"><img width="30" height="30" src="./images/dribble.png" alt="dribble logo"></a>
     <a href="https://medium.com/@hphadtare02" style="margin-right: 20px;"><img width="30" height="30" src="./images/medium.png" alt="medium logo"></a>
 </p>
-<h3 align="center">💻 Frontend Developer | 🎨 UI/UX Designer | 📍 India</h3>
+
