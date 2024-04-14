@@ -47,7 +47,7 @@
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
 </p>
 <br>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitaphadtare&show_icons=true&locale=en&layout=compact" alt="harshitaphadtare" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitaphadtare&show_icons=true&locale=en&layout=compact" alt="harshitaphadtare" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitaphadtare&show_icons=true&locale=en" alt="harshitaphadtare" /></p>
 
