@@ -10,7 +10,7 @@
 <be>
 <h3 align="left">🥤 Espresso with Creativity </h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Solidity**
 
 - 💬 lets chat on **How coffee turns my code from 'What?' to 'Oh!'**
 
