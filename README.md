@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 💬 lets chat on **How coffee turns my code from 'What?' to 'Oh!'**
+- 💬 lets chat on **Web 3.0**
 
 - 📫 How to reach me **harshita.codewiz@gmail.com**
 
