@@ -47,6 +47,11 @@
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
 </p>
 <br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=harshitaphadtare&theme=dark" alt="GitHub Streak" /></a>
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitaphadtare&theme=dark&show_icons=true&locale=en&layout=compact" alt="harshitaphadtare" />
+</p>
 
+<p>
+  <img src="https://streak-stats.demolab.com?user=harshitaphadtare&theme=dark" alt="GitHub Streak Stats" />
+</p>
