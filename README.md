@@ -7,7 +7,8 @@
 </p>
 <hr>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/f897f629-9e9f-4787-a0b6-f149a665d6e0">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitaphadtare&label=Profile%20views&color=0e75b6&style=flat" alt="harshitaphadtare" /> </p>
 <be>
 <h3 align="left">🥤 Espresso with Creativity </h3>
