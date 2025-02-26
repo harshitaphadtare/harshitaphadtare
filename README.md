@@ -1,4 +1,5 @@
 <img src="./images/name.png">
+
 <p align="center">
     <a href="https://www.linkedin.com/in/harshitaphadtare/" ><img width="30" height="30" src="./images/linkedin.png" alt="linkedin logo"></a>
     <a href="https://dribbble.com/vividora?onboarding=true&designer=true"  ><img width="30" height="30" src="./images/dribble.png" alt="dribble logo"></a>
@@ -50,8 +51,5 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitaphadtare&theme=dark&show_icons=true&locale=en&layout=compact" alt="harshitaphadtare" />
-</p>
-
-<p>
-  <img align=left src="https://streak-stats.demolab.com?user=harshitaphadtare&theme=dark" alt="GitHub Streak Stats" />
+  <img align=left src="https://streak-stats.demolab.com?user=harshitaphadtare&theme=dark" alt="GitHub Streak" />
 </p>
