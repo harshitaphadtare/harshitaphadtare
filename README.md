@@ -53,5 +53,5 @@
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=harshitaphadtare&theme=dark" alt="GitHub Streak Stats" />
+  <img align=left src="https://streak-stats.demolab.com?user=harshitaphadtare&theme=dark" alt="GitHub Streak Stats" />
 </p>
