@@ -13,9 +13,9 @@
 <be>
 <h3 align="left">🥤 Espresso with Creativity </h3>
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **ML Algos**
 
-- 💬 lets chat on **Web 3.0**
+- 💬 lets chat on **Data Science**
 
 - 📫 How to reach me **harshita.codewiz@gmail.com**
 
