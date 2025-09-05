@@ -1,15 +1,14 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitaphadtare&label=Profile%20views&color=0e75b6&style=flat" alt="harshitaphadtare" /> </p>
-<be>
-<h3 align="left">🥤 Espresso with Creativity </h3>
 
-- 🌱 I’m currently learning **ML Algos**
 
-- 💬 lets chat on **Data Science**
-
-- 📫 How to reach me **harshita.codewiz@gmail.com**
-
+<h3 align="left">💫 About Me:</h3>
+ <ul>
+  <li>🔭 I’m currently working on <b>Machine learning</b></li>
+  <li>🌱 I’m currently learning <b>Deep Learning</b></li>
+  <li>📫 How to reach me <b>harshita.codewiz@gmail.com</b></li>
+ </ul>
 <br>
  <h3>👨‍💻 Languages and tools</h3>
 
@@ -41,8 +40,25 @@
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
 </p>
 <br>
-
+ <h3>📊 GitHub Stats:</h3>
 <p>
+ <img src="https://streak-stats.demolab.com?user=harshitaphadtare&theme=dark" alt="GitHub Streak" />
+  <img align=left src="https://github-readme-stats.vercel.app/api?username=harshitaphadtare&theme=dark&show_icons=true&layout=compact&include_all_commits=false&count_private=false"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitaphadtare&theme=dark&show_icons=true&locale=en&layout=compact" alt="harshitaphadtare" />
-  <img align=left src="https://streak-stats.demolab.com?user=harshitaphadtare&theme=dark" alt="GitHub Streak" />
+</p>
+<br>
+<h3>🏆 GitHub Trophies:</h3>
+ 
+![](https://github-profile-trophy.vercel.app/?username=harshitaphadtare&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<br>
+
+<h3>🔝 Top Contributed Repo:</h3>
+
+![](https://github-contributor-stats.vercel.app/api?username=harshitaphadtare&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<br>
+
+
+ 
 </p>
