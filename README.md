@@ -1,7 +1,3 @@
-<img width="1527" height="695" alt="image" src="https://github.com/user-attachments/assets/254ad82f-c2ec-4362-b4cf-5496188a6856" /><img width="1527" height="695" alt="image" src="https://github.com/user-attachments/assets/9d656817-247a-4b63-bfac-28ba375d60a2" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitaphadtare&label=Profile%20views&color=0e75b6&style=flat" alt="harshitaphadtare" /> </p>
-
 
 <h3 align="left">💫 About Me:</h3>
  <ul>
