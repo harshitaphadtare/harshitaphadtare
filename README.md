@@ -1,12 +1,4 @@
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/harshitaphadtare/" ><img width="30" height="30" src="./images/linkedin.png" alt="linkedin logo"></a>
-    <a href="https://dribbble.com/vividora?onboarding=true&designer=true"  ><img width="30" height="30" src="./images/dribble.png" alt="dribble logo"></a>
-    <a href="https://medium.com/@hphadtare02" ><img width="30" height="30" src="./images/medium.png" alt="medium logo"></a>
-</p>
-<hr>
-
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/f897f629-9e9f-4787-a0b6-f149a665d6e0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitaphadtare&label=Profile%20views&color=0e75b6&style=flat" alt="harshitaphadtare" /> </p>
 <be>
