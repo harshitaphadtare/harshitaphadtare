@@ -1,4 +1,3 @@
-![THRIVE (1)](https://github.com/user-attachments/assets/038a205f-e5d6-4404-9599-4e209d50cd1d)
 
 <p align="center">
     <a href="https://www.linkedin.com/in/harshitaphadtare/" ><img width="30" height="30" src="./images/linkedin.png" alt="linkedin logo"></a>
