@@ -1,4 +1,4 @@
-
+<img width="1527" height="695" alt="image" src="https://github.com/user-attachments/assets/254ad82f-c2ec-4362-b4cf-5496188a6856" /><img width="1527" height="695" alt="image" src="https://github.com/user-attachments/assets/9d656817-247a-4b63-bfac-28ba375d60a2" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitaphadtare&label=Profile%20views&color=0e75b6&style=flat" alt="harshitaphadtare" /> </p>
 
@@ -44,6 +44,7 @@
 <p>
  <img src="https://streak-stats.demolab.com?user=harshitaphadtare&theme=dark" alt="GitHub Streak" />
   <img align=left src="https://github-readme-stats.vercel.app/api?username=harshitaphadtare&theme=dark&show_icons=true&layout=compact&include_all_commits=false&count_private=false"/>
+</p><p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitaphadtare&theme=dark&show_icons=true&locale=en&layout=compact" alt="harshitaphadtare" />
 </p>
 <br>
