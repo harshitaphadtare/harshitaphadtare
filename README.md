@@ -43,17 +43,5 @@
 </p><p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitaphadtare&theme=dark&show_icons=true&locale=en&layout=compact" alt="harshitaphadtare" />
 </p>
-<br>
-<h3>🏆 GitHub Trophies:</h3>
- 
-![](https://github-profile-trophy.vercel.app/?username=harshitaphadtare&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<br>
-
-<h3>🔝 Top Contributed Repo:</h3>
-
-![](https://github-contributor-stats.vercel.app/api?username=harshitaphadtare&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<br>
 
 
