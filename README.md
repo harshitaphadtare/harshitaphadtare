@@ -36,12 +36,22 @@
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
 </p>
 <br>
- <h3>📊 GitHub Stats:</h3>
+
+ <h3>📈 GitHub Stats:</h3>
 <p>
- <img src="https://streak-stats.demolab.com?user=harshitaphadtare&theme=dark" alt="GitHub Streak" />
-  <img align=left src="https://github-readme-stats.vercel.app/api?username=harshitaphadtare&theme=dark&show_icons=true&layout=compact&include_all_commits=false&count_private=false"/>
+ <img src="https://streak-stats.demolab.com?user=harshitaphadtare&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+   <img src="https://github-readme-stats.vercel.app/api?username=harshitaphadtare&show_icons=true&theme=tokyonight&hide_border=true" height="200px"/>  
+
+ 
 </p><p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitaphadtare&theme=dark&show_icons=true&locale=en&layout=compact" alt="harshitaphadtare" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitaphadtare&layout=compact&theme=tokyonight&hide_border=true" height="200px"/>  
+
 </p>
 
 
+ <h3>📊 GitHub Activity:</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitaphadtare&theme=tokyo-night&hide_border=true" />
+</p>
