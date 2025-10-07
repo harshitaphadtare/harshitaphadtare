@@ -40,12 +40,10 @@
  <h3>📈 GitHub Stats:</h3>
 <p>
  <img src="https://streak-stats.demolab.com?user=harshitaphadtare&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
- <img src="https://github-readme-stats.vercel.app/api?username=harshitaphadtare&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>  
+ <img src="https://github-readme-stats.vercel.app/api?username=harshitaphadtare&show_icons=true&theme=tokyonight&hide_border=true" height="200px"/>  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitaphadtare&layout=compact&theme=tokyonight&hide_border=true" height="200px"/>  
 
  
-</p><p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitaphadtare&layout=compact&theme=tokyonight&hide_border=true" height="200px"/>  
-
 </p>
 
 
