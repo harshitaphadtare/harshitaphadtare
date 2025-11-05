@@ -1,7 +1,7 @@
 
 <h3 align="left">💫 About Me:</h3>
  <ul>
-  <li>🔭 I’m currently working on <b>Machine learning</b></li>
+  <li>🔭 I’m currently tuning <b>Machine learning Models</b></li>
   <li>🌱 I’m currently learning <b>Deep Learning</b></li>
   <li>📫 How to reach me <b>harshita.codewiz@gmail.com</b></li>
  </ul>
